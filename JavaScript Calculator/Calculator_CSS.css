@@ -1,0 +1,31 @@
+.calculator{
+    width: 450px;
+    border-color: black;
+    border-width: 5px;
+}
+
+.button{
+    background-color: grey;
+    font-size: 25px;
+    font-family: Electrolize;
+    border-radius: 5px;
+    color: white;
+    width: 100px;
+}
+
+.display{
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+    border-radius: 5px;
+    font-family: Electrolize;
+    width: 400px;
+}
+
+.input{
+    border-radius: 5px;
+    font-family: Electrolize;
+    font-size: 30px;
+    width: 200px;
+    
+}
